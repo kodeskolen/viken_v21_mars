@@ -12,7 +12,11 @@ Grunnet begrenset med tid vil vi ikke prøve å gi en heldekkende innføring i p
 ## Materiale
 Vi har utviklet to kompendier rettet inn mot dette kurset – et for hver dag. Det første finner du [her](Dag%201/kompendium.pdf), og dekker temaene variabler, betingelser og løkker. Det andre finner du [her](Dag%202/kompendium.pdf), og her ser vi på funksjoner og plotting, samt går igjennom et konkret prosjekt for numerisk løsning av ligninger.
 
-Oppgaver for dag 1 finner du [her](Dag%201/oppgaver.pdf) – og hvis du blir fort ferdig med disse, er det også lagt ut noen [bonusoppgaver](Dag%201/bonusoppgaver.pdf) du kan prøve deg på videre.
+Presentasjonen finner dere [her](https://prezi.com/view/ARBvZ4PB4osYx1kcCLNk/).
+
+Oppgaver for dag 1 finner du [her](Dag%201/oppgaver.pdf) – og hvis du blir fort ferdig med disse, er det også lagt ut noen [bonusoppgaver](Dag%201/bonusoppgaver.pdf) du kan prøve deg på videre. Løsningsforslagene finner du henholdsvis [her](Dag%201/oppgaver_fasit.pdf) og [her](Dag%201/bonusoppgaver_fasit.pdf).
+
+Oppgaver og bonusoppgaver for dag 2 finner du [her](Dag%202/oppgaver.pdf) og [bonusoppgaver](Dag%202/bonusoppgaver.pdf).
 
 Vi legger til mer materiale løpende, ettersom kurset holdes, og vi kommer også til å legge ut løsningsforslag for alle oppgavene til slutt.
 
@@ -25,3 +29,5 @@ En gratis bok om vitenskapelig programmering i Python. Boken er pensum i faget *
 * [Exercises for IN1900](https://www.uio.no/studier/emner/matnat/ifi/IN1900/h20/oppgaver/oppgaveheftein1900.pdf) – Oppgavesamling for kurset IN1900
 
 * [Project Euler](https://projecteuler.net/) – En database for hundrevis av matematikkoppgaver som lettest løses ved hjelp av programmering. Oppgavene kan løses i hvilket som helst språk.
+
+* [Algoritmisk tenkning](https://www.udir.no/kvalitet-og-kompetanse/profesjonsfaglig-digital-kompetanse/algoritmisk-tenkning/) – Plakater fra UDIR
