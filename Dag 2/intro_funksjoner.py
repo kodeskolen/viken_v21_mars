@@ -26,3 +26,8 @@ print(f"Volumet av en fotball er {volum_fotball:.2f} cm^3.")
 print(f"Volumet av en jordklode er {volum_jordklode:.2g} km^3.")
 
 
+
+
+
+
+
